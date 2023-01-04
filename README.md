@@ -2,14 +2,12 @@
 
 Bot Discord temático do anime Chainsaw Man
 
-###Comandos:
+### Comandos:
 
-```
+```discord
 # Para exibir quantos dias faltam para a publicação do próximo episódio de Chainsaw Man
 $ saw 
 ```
-
-By Valderi Douglas Camargo
 
 ### :gear: Como utilizar
 
