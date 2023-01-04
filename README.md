@@ -1,26 +1,13 @@
 # BotDiscord-BotSaw
 
-Bot Discord temático do anime Chainsaw Man
+Bot Discord temático do anime Chainsaw Man que avisa todas terças-feiras
+às 13:00 horas para que não se esqueça de assistir o novo episódio
 
 ### Comandos:
 
 ```discord
 # Para exibir quantos dias faltam para a publicação do próximo episódio de Chainsaw Man
 $ saw 
-```
-
-### :gear: Como utilizar
-
-Para iniciar o projeto:
-
-Com o [Node](https://nodejs.org/en/) instalado em sua máquina, utilize estes comandos em um terminal:
-
-```bash
-# Baixe ou clone este repositório
-$ git clone https://github.com/ValderiDouglas/BotDiscord-BotSaw.git
-
-# Acesse a pasta e inicie o projeto
-$ cd BotDiscord-BotSaw
-$ npm install
-$ npm run dev
+# Para exibir o ping do bot
+$ ping
 ```
